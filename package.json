@@ -1,0 +1,19 @@
+{
+  "name": "vue-language-switcher",
+  "version": "0.1.0",
+  "description": "Small,simple,easy to use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YFengFly/vue-language-switcher.git"
+  },
+  "author": "YFeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YFengFly/vue-language-switcher/issues"
+  },
+  "homepage": "https://github.com/YFengFly/vue-language-switcher#readme"
+}
